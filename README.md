@@ -1,4 +1,4 @@
-# sammapix-com
+# SammaPix
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,101 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-sammapix-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://sammapix.com/
+SammaPix provides free AI-powered photo tools, image compression, conversion, and optimization services. The platform offers a suite of utilities such as WebP compression, HEIC conversion, AI-based renaming, EXIF removal, film filters, watermarking, cropping, duplicate detection, and batch resizing. It targets both casual users and AI agents, emphasizing no sign‑up, no watermarks, and a user‑friendly web interface. Founded by photographer Luca Sammarco, SammaPix aims to simplify photo handling for individuals and developers alike, with an open API for integration.
+
+**Areas:** Photo · AI · ImageProcessing · FreeTools · OpenAPI
+
+## SammaPix on APIs.io
+
+Everything profiled for SammaPix is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/sammapix-com/](https://apis.io/providers/sammapix-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [SammaPix Health API](https://apis.io/apis/sammapix-com/sammapix-com-health-api/) — The Health API from SammaPix — 1 operation(s) for health.
+- [SammaPix Pipeline API](https://apis.io/apis/sammapix-com/sammapix-com-pipeline-api/) — The Pipeline API from SammaPix — 1 operation(s) for pipeline.
+- [SammaPix SammaPix API — Image & PDF Processing For AI Agents API](https://apis.io/apis/sammapix-com/sammapix-com-sammapix-api-image-pdf-processing-for-ai-agents-api/) — The SammaPix API — Image & PDF Processing For AI Agents API from SammaPix — 1 operation(s) for sammapix api — image & pdf processing for ai agents.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [SammaPix Domain Security](https://apis.io/security/sammapix-com/sammapix-com-domain-security/)
+- [SammaPix Vulnerability Disclosure](https://apis.io/security/sammapix-com/sammapix-com-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [SammaPix Plans Pricing](https://apis.io/plans/sammapix-com/sammapix-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://sammapix.com/)
+- [Documentation](https://www.sammapix.com/)
+- [Pricing](https://www.sammapix.com/pricing)
+- [Blog](https://www.sammapix.com/blog)
+- [Security](https://www.sammapix.com/privacy)
+- [Terms of service](https://www.sammapix.com/terms)
+- [Privacy policy](https://www.sammapix.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 39.7** — developing · rubric 0.27.0 · scored 2026-11-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 46.3 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 21.4 |
+| Access clarity | 73.2 |
+
+**Agent readiness 35.5** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 23.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/sammapix-com/](https://apis.io/providers/sammapix-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for SammaPix: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/sammapix-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
